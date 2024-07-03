@@ -21,9 +21,9 @@ http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"	tvg-name="" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 group-title="CINEMA"			tvg-name="" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
+#EXTINF:-1 group-title="CINEMA"		tvg-name="" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA"			tvg-name="" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
+#EXTINF:-1 group-title="CINEMA"		tvg-name="" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA"			tvg-name="" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
 https://ssh101.bozztv.com/ssh101/galaxygr/index.m3u8
